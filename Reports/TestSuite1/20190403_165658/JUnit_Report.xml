@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite1" time="26" tests="2" failures="0" errors="0">
+   <testsuite name="TestSuite1" tests="2" failures="0" errors="0" time="26" timestamp="2019-04-03 16:57:06" hostname="Usuario - DESKTOP-QQU4FKT" id="Test Suites/TestSuite1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Usuario\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20190403_165658"/>
+         <property name="logFiles" value="C:\\Users\\Usuario\\git\\KatalonGitTest1\\Reports\\TestSuite1\\20190403_165658\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Usuario - DESKTOP-QQU4FKT"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.0.5.4"/>
+         <property name="browser" value="Chrome 73.0.3683.86"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="89e737ce0610535394ff6138d3e75e98"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test - 1 By Tom" classname="Test Cases/Test - 1 By Tom" status="PASSED">
+         <system-out><![CDATA[2019-04-03 16:57:07 - [TEST_CASE][PASSED] - Test Cases/Test - 1 By Tom: Test Cases/Test - 1 By Tom
+
+2019-04-03 16:57:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-04-03 16:57:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-03 16:57:08 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-04-03 16:57:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-04-03 16:57:17 - [TEST_STEP][PASSED] - navigateToUrl("lifecharger.org"): Navigate to 'http://lifecharger.org' successfully
+
+2019-04-03 16:57:23 - [MESSAGE][PASSED] - Navigate to 'http://lifecharger.org' successfully
+
+2019-04-03 16:57:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-03 16:57:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Test Case 991" classname="Test Cases/Test Case 991" status="PASSED">
+         <system-out><![CDATA[2019-04-03 16:57:24 - [TEST_CASE][PASSED] - Test Cases/Test Case 991: Test Cases/Test Case 991
+
+2019-04-03 16:57:24 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com"): Browser is opened with url: 'https://www.katalon.com'
+
+2019-04-03 16:57:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-04-03 16:57:33 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com'
+
+2019-04-03 16:57:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-04-03 16:57:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-04-03 16:57:06 - [TEST_SUITE][PASSED] - TestSuite1: Test Cases/Test Case 991]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
