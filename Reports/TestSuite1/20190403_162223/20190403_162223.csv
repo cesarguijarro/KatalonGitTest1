@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 73.0.3683.86,,2019-04-03 16:22:30,2019-04-03 16:22:48,"17,854s",PASSED
+,,,,,,
+Test Cases/Test - 1 By Tom,Chrome 73.0.3683.86,,2019-04-03 16:22:30,2019-04-03 16:22:40,"9,388s",PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-04-03 16:22:31,2019-04-03 16:22:34,"3,793s",PASSED
+"navigateToUrl(""lifecharger.org"")",Chrome 73.0.3683.86,,2019-04-03 16:22:34,2019-04-03 16:22:39,"4,522s",PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-04-03 16:22:39,2019-04-03 16:22:40,"0,637s",PASSED
+,,,,,,
+Test Cases/Test Case 991,Chrome 73.0.3683.86,Using Branch,2019-04-03 16:22:40,2019-04-03 16:22:48,"8,151s",PASSED
+"openBrowser(""https://www.katalon.com"")",Chrome 73.0.3683.86,,2019-04-03 16:22:40,2019-04-03 16:22:47,"7,304s",PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-04-03 16:22:47,2019-04-03 16:22:48,"0,609s",PASSED
